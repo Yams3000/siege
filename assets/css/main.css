@@ -1660,7 +1660,9 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+
 #my-id {
      list-style: none;
      margins: 0 0 0 0;
+     padding: 0;
 }
