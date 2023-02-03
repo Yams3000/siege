@@ -1662,7 +1662,7 @@ input, select, textarea {
 
 
 #my-id {
-   margin-left: 50;
-   padding-left: 50;
+   margin:50px;
+   padding:0px;
 } 
 
